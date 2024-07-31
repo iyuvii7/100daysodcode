@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="841bce6f-b39c-4fa9-bf95-c7320d32a565" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../100dayscode/.idea/100dayscode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/day18/hirst_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/day18/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/day18/sfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/day19/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/snake_game/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/snake_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/snake_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../100dayscode/snake_game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/blackjack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/blind_auction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/coffeeMachine/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/coffeeMachine/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/higher_lower/game_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/higher_lower/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/number_guessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/password_generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/pizza_delivery.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jy412rC5pXAz3AfyumThxcoPKo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Yuvraj/PycharmProjects/Mail Merge Project Start"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="841bce6f-b39c-4fa9-bf95-c7320d32a565" name="Changes" comment="" />
+      <created>1722345763412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722345763412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
